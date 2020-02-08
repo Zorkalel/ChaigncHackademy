@@ -119,6 +119,22 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
     </td>
   </tr>
   <tr>
+ <!-- haiti -->
+    <td>
+     <img src="https://commons.wikimedia.org/wiki/File:Flag_of_Haiti.svg?uselang=fr" width='20'>Haiti
+     <br>« Liberté - Égalité - Fraternité » 
+    </td>
+ <!-- commenter votre pesudo twitter, et ajouter un numero de id de plus-->
+    <td>
+     1
+   </td>
+    <td>
+         <a href="http://twitter.com/djefferson_sain">@Zorkalel</a>
+    </td>
+ <!--  fin du commentaire -->
+  </tr>
+  <!-- fin haiti -->
+  <tr>
     <td><img src="" width="20"> ?</td>
     <td>1</td>
     <td>guyak89</td>
